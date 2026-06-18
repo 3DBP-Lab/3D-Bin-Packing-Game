@@ -1,0 +1,29 @@
+* text=auto
+
+# Repository text files
+.gitattributes text eol=lf
+.gitignore text eol=lf
+*.conf text eol=lf
+*.md text eol=lf
+
+# Unity text assets
+*.asset text eol=lf
+*.cs text eol=lf
+*.json text eol=lf
+*.mat text eol=lf
+*.meta text eol=lf
+*.physicMaterial text eol=lf
+*.prefab text eol=lf
+*.unity text eol=lf
+
+# Common binary assets
+*.fbx binary
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.mp3 binary
+*.ogg binary
+*.png binary
+*.psd binary
+*.tga binary
+*.wav binary
